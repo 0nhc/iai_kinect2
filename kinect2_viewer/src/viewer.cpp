@@ -32,6 +32,7 @@
 #include <pcl/visualization/cloud_viewer.h>
 
 #include <opencv2/opencv.hpp>
+#include<opencv2/imgproc/imgproc_c.h>
 
 #include <ros/ros.h>
 #include <ros/spinner.h>
